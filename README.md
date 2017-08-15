@@ -1,2 +1,2 @@
 # hello-world
-This is my first time creating a new repository
+This is an example for creating an repository
